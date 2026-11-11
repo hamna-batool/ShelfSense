@@ -1,0 +1,6 @@
+{
+  "name": "ShelfSense",
+  "description": "Inventory and expiry management prototype for food manufacturing in Multan, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
